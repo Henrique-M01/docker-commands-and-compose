@@ -8,4 +8,4 @@ ADD node_modules.tar.gz ./todo-app/tests
 
 COPY . . 
 
-CMD [ "npm" "test" ]
+CMD [ "npm", "test" ]
